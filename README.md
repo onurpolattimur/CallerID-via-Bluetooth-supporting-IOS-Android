@@ -50,6 +50,6 @@ The program works on any bluetooth stack, including **Windows stack** although W
 After doing research on my own I have come to a conclusion that many of the previous reasearches done on the topic seems to have resulted in failure. On forums such as stackoverflow you can find a lot of posts on this topic. They all state that this is not doable for IOS. But this is doable. I did it. And you can do it too. 
 
 ## The End
-For further details or if you face a problem feel free to contact me.  If you want to support me, buy me a be.. No! I prefer Whiskey.
+For further details or if you face a problem feel free to contact me.  If you want to support me, buy me a be.. No! I prefer Scotch.
 <br>
 <p align="center"><img  width= "100px" src ="https://www.distilledspirits.org/wp-content/uploads/2018/09/whiskey-white-background.png"/></p>
