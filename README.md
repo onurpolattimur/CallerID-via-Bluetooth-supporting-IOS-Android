@@ -40,4 +40,11 @@ The program works on any bluetooth stack, including **Windows stack** although W
   <img src="https://raw.githubusercontent.com/onurpolattimur/CallerID-via-Bluetooth-supporting-IOS-Android/master/SS/notification_out.png" />
 </p>
 
+## Test Environment
+**Windows** 10 Home Single Language 64-bit (10.0, Build 17763)
+**IOS** iPhone 6s 12.3.1
+**Android** 4.0.3
 
+## The End
+For further details or if you face a problem feel free to contact me.  If you want to support me, buy me a be.. No! I prefer Whiskey.
+<img  width= "100px" src ="https://www.distilledspirits.org/wp-content/uploads/2018/09/whiskey-white-background.png"/>
