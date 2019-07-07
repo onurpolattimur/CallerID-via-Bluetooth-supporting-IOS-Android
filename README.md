@@ -2,7 +2,7 @@
 #  Call Info via BT supporting IOS and Android using AT Commands
 
 After doing some research on the topic, I found out that no such a thing has been done. On many forums people wrote that no such a thing is possible, as getting call information via Bluetooth on not unlocked IOS. 
-It made me even more curious so I decided to dig deaper. After a short while I discovered AT Commands and started solving the case. 
+It made me even more curious so I decided to dig deeper. After a short while I discovered AT Commands and started solving the case. 
 
 The program supports both IOS and Android. You can see the caller's phone number and if registered the name.  In order to use the program you should remember to pair your device on Windows first. The incoming and outgoing calls can be tracked easily.  In addition, you can also make calls using this application. 
 There is also a Console Output included for those who want to see the details. You will also receive a notification if you get a call or make a call. 
