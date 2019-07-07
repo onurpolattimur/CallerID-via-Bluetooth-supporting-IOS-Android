@@ -1,4 +1,4 @@
-#  CallerID via BT supporting IOS and Android using AT Commands
+#  Call Info via BT supporting IOS and Android using AT Commands
 
 After doing some research on the topic, I found out that no such a thing has been done. On many forums people wrote that no such a thing is possible, as getting call information via Bluetooth on not unlocked IOS. 
 It made me even more curious so I decided to dig deaper. After a short while I discovered AT Commands and started solving the case. 
