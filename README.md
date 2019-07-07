@@ -23,6 +23,22 @@ The program works on any bluetooth stack, including Windows stack although Windo
 
 ## Screenshots
 
+1. The App
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurpolattimur/CallerID-via-Bluetooth-supporting-IOS-Android/master/SS/app.png" />
+</p>
+
+2. Incoming calls notification
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurpolattimur/CallerID-via-Bluetooth-supporting-IOS-Android/master/SS/notification.png" />
+</p>
+
+3. Outgoing calls notification
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onurpolattimur/CallerID-via-Bluetooth-supporting-IOS-Android/master/SS/notification_out.png" />
+</p>
+
 
 
 ## Rename a file
