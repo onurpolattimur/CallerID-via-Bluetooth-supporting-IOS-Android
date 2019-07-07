@@ -48,4 +48,4 @@ The program works on any bluetooth stack, including **Windows stack** although W
 ## The End
 For further details or if you face a problem feel free to contact me.  If you want to support me, buy me a be.. No! I prefer Whiskey.
 <br>
-<center><img  width= "100px" src ="https://www.distilledspirits.org/wp-content/uploads/2018/09/whiskey-white-background.png"/></center>
+<p align="center"><img  width= "100px" src ="https://www.distilledspirits.org/wp-content/uploads/2018/09/whiskey-white-background.png"/></p>
