@@ -18,7 +18,7 @@ The program works on any bluetooth stack, including **Windows stack** although W
  3. Click Find Device and choose your device from the list.  
   > **Note:** If your device name is not on the list make sure that you have paired your device in Windows settings.
   4. If you want to make a call you need to write the number you are to call, and then press Call button.
-  5. You can see the incoming calls on the **Incoming Calls ** section.
+  5. You can see the incoming calls on the **Incoming Calls** section.
   6. You can see the outgoing calls on the **Outgoing Calls** section.
   7. If you are interested in more details you are free to check the **Console Output** section which shows the AT commands and responses. 
 
