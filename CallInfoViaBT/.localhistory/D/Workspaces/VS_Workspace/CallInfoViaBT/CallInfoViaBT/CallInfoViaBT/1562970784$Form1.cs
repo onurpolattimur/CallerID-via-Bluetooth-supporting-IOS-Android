@@ -256,7 +256,10 @@ namespace CallInfoViaBT
             richTextBox1.ScrollToCaret();
         }
 
-     
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            sendNotification("asd");
+        }
     }
     public class MultiTextWriter : TextWriter
     {

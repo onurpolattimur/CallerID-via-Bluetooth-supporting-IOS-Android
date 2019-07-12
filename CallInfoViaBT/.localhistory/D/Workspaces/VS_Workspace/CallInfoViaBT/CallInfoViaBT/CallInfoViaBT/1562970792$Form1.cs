@@ -239,7 +239,7 @@ namespace CallInfoViaBT
             callButton.Enabled = false;
         }
         private void sendNotification(string msg)
-        {
+        {.
             NotifyIcon MyIcon = new NotifyIcon();
             MyIcon.Visible = true;
             MyIcon.Icon = System.Drawing.SystemIcons.Information;
@@ -256,7 +256,10 @@ namespace CallInfoViaBT
             richTextBox1.ScrollToCaret();
         }
 
-     
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            sendNotification("asd");
+        }
     }
     public class MultiTextWriter : TextWriter
     {
