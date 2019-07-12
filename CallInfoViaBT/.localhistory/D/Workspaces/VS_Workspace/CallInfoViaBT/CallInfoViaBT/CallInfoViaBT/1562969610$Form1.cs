@@ -35,7 +35,7 @@ namespace CallInfoViaBT
             string[] dialCmd = new string[6];
             dialCmd[0] = "AT+CMER\r";
             dialCmd[1] = "AT+CIND=?\r";
-            dialCmd[3] = "ATD +"+TB_phoneNumber.Text+";\r";
+            dialCmd[3] = "ATD +905319430270;\r";
 
             runCommand(dialCmd[0], peerStream);
             runCommand(dialCmd[1], peerStream);

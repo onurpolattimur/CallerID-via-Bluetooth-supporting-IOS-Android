@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.TB_phoneNumber = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.callButton = new System.Windows.Forms.Button();
             this.connectButton = new System.Windows.Forms.Button();
@@ -59,13 +59,13 @@
             this.groupBox4.SuspendLayout();
             this.SuspendLayout();
             // 
-            // TB_phoneNumber
+            // textBox1
             // 
-            this.TB_phoneNumber.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TB_phoneNumber.Location = new System.Drawing.Point(121, 19);
-            this.TB_phoneNumber.Name = "TB_phoneNumber";
-            this.TB_phoneNumber.Size = new System.Drawing.Size(131, 27);
-            this.TB_phoneNumber.TabIndex = 0;
+            this.textBox1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(121, 19);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(131, 27);
+            this.textBox1.TabIndex = 0;
             // 
             // label1
             // 
@@ -199,7 +199,7 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.TB_phoneNumber);
+            this.groupBox1.Controls.Add(this.textBox1);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Controls.Add(this.callButton);
             this.groupBox1.Location = new System.Drawing.Point(709, 22);
@@ -299,7 +299,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox TB_phoneNumber;
+        private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button callButton;
         private System.Windows.Forms.Button connectButton;
